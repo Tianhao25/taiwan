@@ -1,5 +1,22 @@
+#headline-slides {
+  margin-top: 25px;
+}
+
+.headline {
+  text-align: center;
+  max-height: 400px;
+}
+
 .news-image {
   width: 90%;
+}
+
+.headline-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 380px;
 }
 
 .news-tab {
