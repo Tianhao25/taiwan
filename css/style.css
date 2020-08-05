@@ -1,0 +1,82 @@
+.news-image {
+  width: 90%;
+}
+
+.news-tab {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5%;
+  margin-top: 25px;
+  transition: all 500ms ease-out;
+}
+
+.news-tab:hover {
+  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.news-tab h3 {
+  font-family: 'Lora', serif;
+  font-size: 1.5em;
+}
+
+.news-tab p {
+  padding-top: 5px;
+  padding-bottom: 0;
+  font-family: 'Lora', serif;
+}
+
+.news-tab {
+  color: #1b262c;
+  background-color: #dfe3ee;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+.blue-bar {
+  background-color: #3B5998;
+}
+
+.navbar-brand span {
+  color: white;
+  font-family: 'Rowdies', cursive;
+}
+
+.navbar-item span {
+  color: white;
+  font-family: 'Rowdies', cursive;
+}
+
+.bottom-container {
+  padding: 25px 0 0 0;
+  text-align: center;
+  background-color: #3B5998;
+  font-family: 'Rowdies', cursive;
+}
+
+.bottom-container {
+  padding-top: 15px;
+  padding-bottom: 5px;
+  text-align: center;
+  background-color: #3B5998;
+  font-family: 'Rowdies', cursive;
+}
+
+.bottom-container p {
+  margin-top: 0.5em;
+}
+
+.footer {
+  color: white;
+  margin-top: 25px;
+  padding: 0;
+}
+.contact-button {
+  margin: 0 8px;
+}
